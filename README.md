@@ -65,21 +65,6 @@ PostgreSQL • MongoDB • Redis • Docker • Git • Linux
 AWS • Azure • CI/CD • Kubernetes • Microservices
 ```
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evance365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evance365&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evance365&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=awesome-generative-ai&theme=tokyonight&hide_border=true)](https://github.com/Evance365/awesome-generative-ai)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=React&theme=tokyonight&hide_border=true)](https://github.com/Evance365/React)
