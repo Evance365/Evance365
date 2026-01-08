@@ -33,17 +33,17 @@ class DataEngineer:
         }
 ```
 
-## 🔥 Current Focus
+##  Current Focus
 
-🧠 **Deep Diving Into**: Neural Networks, Transformer Architectures, and Large Language Models
+ **Deep Diving Into**: Neural Networks, Transformer Architectures, and Large Language Models
 
-⚙️ **Building**: Scalable backend systems for ML model deployment
+ **Building**: Scalable backend systems for ML model deployment
 
-📊 **Exploring**: Advanced data engineering pipelines and real-time analytics
+ **Exploring**: Advanced data engineering pipelines and real-time analytics
 
-🤖 **Experimenting With**: AI Agents and autonomous systems
+ **Experimenting With**: AI Agents and autonomous systems
 
-## 💻 Tech Arsenal
+##  Tech Arsenal
 
 **Data Science & ML**
 ```
@@ -66,20 +66,17 @@ AWS • Azure • CI/CD • Kubernetes • Microservices
 ```
 
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=awesome-generative-ai&theme=tokyonight&hide_border=true)](https://github.com/Evance365/awesome-generative-ai)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=React&theme=tokyonight&hide_border=true)](https://github.com/Evance365/React)
 
-</div>
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
-💡 Open to collaborating on:
+ Open to collaborating on:
 - **Data Science Projects**: ML models, data pipelines, analytics
 - **Backend Systems**: APIs, microservices, scalable architectures
 - **AI/ML Applications**: NLP, computer vision, recommendation systems
 - **Open Source**: Contributing to impactful projects
 
-## 📫 Reach Me
+##  Reach Me
 
 - 💼 LinkedIn: [Evance Odhiambo](https://www.linkedin.com/in/evance-odhiambo-4628183a3)
 - 📧 Email: evanceotis365@gmail.com
