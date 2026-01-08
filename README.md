@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Evance
+#  Hey, I'm Evance
 
 <div align="center">
   
-### 🚀 Data Scientist | Backend Engineer | AI Enthusiast
+###  Data Scientist | Backend Engineer | AI Enthusiast
 
 *Building intelligent systems that scale*
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 What I'm About
+##  What I'm About
 
 ```python
 class DataEngineer:
