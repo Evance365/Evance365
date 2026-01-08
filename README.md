@@ -1,23 +1,113 @@
-👋 Hi, I’m Evance (@Evance365)
-💻 Full-Stack Developer | UI/UX Enthusiast
-🚀 Tech Stack: Python | JavaScript (React, Next.js) | SCSS | SQL
-🔍 Currently exploring Machine Learning & AI Agents
+# 👋 Hey, I'm Evance
 
-🔥 What I Do
-🖥️ Build interactive, scalable web apps
+<div align="center">
+  
+### 🚀 Data Scientist | Backend Engineer | AI Enthusiast
 
-🎨 Design intuitive user interfaces
+*Building intelligent systems that scale*
 
-📊 Work with databases & backend systems
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evance-odhiambo-4628183a3)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:evanceotis365@gmail.com)
 
-🌱 Currently Learning
-🤖 AI & Machine Learning
+</div>
 
-📡 APIs & Cloud Computing
+---
 
-🤝 Looking to Collaborate On
-Open-source projects
+## 🎯 What I'm About
 
-AI-driven web applications
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Evance"
+        self.role = "Data Scientist & Backend Developer"
+        self.focus = ["Machine Learning", "Scalable Systems", "AI Agents"]
+        self.current_mission = "Building intelligent data pipelines"
+    
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "Pandas"],
+            "backend": ["Node.js", "FastAPI", "Django", "PostgreSQL", "MongoDB"],
+            "cloud": ["AWS", "Docker", "Kubernetes"],
+            "interests": ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+        }
+```
 
-Innovative UI/UX designs
+## 🔥 Current Focus
+
+🧠 **Deep Diving Into**: Neural Networks, Transformer Architectures, and Large Language Models
+
+⚙️ **Building**: Scalable backend systems for ML model deployment
+
+📊 **Exploring**: Advanced data engineering pipelines and real-time analytics
+
+🤖 **Experimenting With**: AI Agents and autonomous systems
+
+## 💻 Tech Arsenal
+
+**Data Science & ML**
+```
+Python • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Jupyter
+```
+
+**Backend Development**
+```
+FastAPI • Django • Node.js • Express • RESTful APIs • GraphQL
+```
+
+**Databases & Tools**
+```
+PostgreSQL • MongoDB • Redis • Docker • Git • Linux
+```
+
+**Cloud & DevOps**
+```
+AWS • Azure • CI/CD • Kubernetes • Microservices
+```
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evance365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evance365&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evance365&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=awesome-generative-ai&theme=tokyonight&hide_border=true)](https://github.com/Evance365/awesome-generative-ai)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Evance365&repo=React&theme=tokyonight&hide_border=true)](https://github.com/Evance365/React)
+
+</div>
+
+## 🤝 Let's Collaborate
+
+💡 Open to collaborating on:
+- **Data Science Projects**: ML models, data pipelines, analytics
+- **Backend Systems**: APIs, microservices, scalable architectures
+- **AI/ML Applications**: NLP, computer vision, recommendation systems
+- **Open Source**: Contributing to impactful projects
+
+## 📫 Reach Me
+
+- 💼 LinkedIn: [Evance Odhiambo](https://www.linkedin.com/in/evance-odhiambo-4628183a3)
+- 📧 Email: evanceotis365@gmail.com
+
+---
+
+<div align="center">
+
+### 💭 *"Data is the new oil, but models are the refineries"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Evance365&color=blueviolet&style=flat-square)
+
+⭐️ From [Evance365](https://github.com/Evance365)
+
+</div>
+
