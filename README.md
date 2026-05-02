@@ -2,7 +2,7 @@
 
 <div align="center">
   
-###  Data Scientist | Backend Engineer | AI Enthusiast
+### | Backend Engineer | AI Enthusiast
 
 *Building intelligent systems that scale*
 
